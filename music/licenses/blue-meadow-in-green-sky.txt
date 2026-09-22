@@ -1,0 +1,12 @@
+Blue Meadow In Green Sky
+Author: yd
+License: CC0 1.0 Universal (CC0-1.0)
+Public creator source: https://opengameart.org/content/blue-meadow-in-green-sky
+Audio SHA-256: efc340c14f5f5e74933efd90bbe1a6089a09551f7e8014bbe28d995e7d112355
+Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.en
+Complete legal text: CC0-1.0.txt
+
+The creator's public page declares CC0. Author and source credit are retained voluntarily; CC0 does not require attribution.
+Creator quote: A very primitive and rather short loop. Inspired by an adventure game. Lmms file is attached and is selfs-sufficient. PS: if you decide to use Lmms files remove the trailing "_" from the file name.
+
+CC0 applies only to rights the affirmer holds and can waive or license. Creator declarations are provenance, not an independent guarantee of worldwide rights or third-party clearance. Patent, trademark, privacy, publicity and other third-party rights may remain. No warranty or endorsement is implied. No listening-based, musicological or perceptual seamless-loop certification has been performed.

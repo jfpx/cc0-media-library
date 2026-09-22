@@ -1,0 +1,12 @@
+Shrine
+Author: yd
+License: CC0 1.0 Universal (CC0-1.0)
+Public creator source: https://opengameart.org/content/shrine
+Audio SHA-256: 35a3051a7b6d4fddda564624cff960b77722fd8bcf4a3e07ceceb060b6c0f080
+Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.en
+Complete legal text: CC0-1.0.txt
+
+The creator's public page declares CC0. Author and source credit are retained voluntarily; CC0 does not require attribution.
+Creator quote: A short track with a mysterious vibe. LMMS source file is attached and requires no external  plugins.
+
+CC0 applies only to rights the affirmer holds and can waive or license. Creator declarations are provenance, not an independent guarantee of worldwide rights or third-party clearance. Patent, trademark, privacy, publicity and other third-party rights may remain. No warranty or endorsement is implied. No listening-based, musicological or perceptual seamless-loop certification has been performed.
