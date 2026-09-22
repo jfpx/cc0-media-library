@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "resources": [
+    {
+      "type": "music",
+      "version": "music-v1",
+      "license": "CC0-1.0",
+      "trackCount": 118,
+      "audioBytes": 256956282,
+      "catalog": {
+        "url": "https://raw.githubusercontent.com/jfpx/cc0-media-library/music-v1/music/v1/catalog.json",
+        "sha256": "037eb6e943b0f6f8aa6b38de6ee98fe1c36e534c918735df6da432709aa824d3",
+        "bytes": 142980
+      },
+      "manifest": {
+        "url": "https://raw.githubusercontent.com/jfpx/cc0-media-library/music-v1/music/v1/manifest.json",
+        "sha256": "0417d8d5e2ce23c5b6a95b0f2072fcfd01a5b7b5dfff83ba29cca1cfaf0222d1",
+        "bytes": 26951
+      },
+      "archive": {
+        "url": "https://github.com/jfpx/cc0-media-library/releases/download/music-v1/music-cc0.zip",
+        "latestUrl": "https://github.com/jfpx/cc0-media-library/releases/latest/download/music-cc0.zip",
+        "sha256": "f76258c87efa52cb47c7d716830088049226752f97c56fcda830ab43037172cc",
+        "bytes": 252475212,
+        "fileCount": 135,
+        "uncompressedBytes": 257147489,
+        "catalogPath": "music/catalog.json",
+        "manifestPath": "music/manifest.json"
+      }
+    }
+  ]
+}
